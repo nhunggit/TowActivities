@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tow Activities</string>
+    <string name="text_header"></string>
+    <string name="text_message">text_message</string>
+    <string name="button_second">Reply</string>
+    <string name="text_second">Enter your reply here</string>
+    <string name="text_header_reply">Reply Received</string>
+    <string name="text_message_reply">Receive_Message</string>
+    <string name="send">Send</string>
+</resources>
